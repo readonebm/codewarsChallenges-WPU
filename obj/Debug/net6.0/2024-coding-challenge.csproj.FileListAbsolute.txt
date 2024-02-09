@@ -1,0 +1,14 @@
+D:\projects\exercise\2024-coding-challenge\2024-coding-challenge\bin\Debug\net6.0\2024-coding-challenge.exe
+D:\projects\exercise\2024-coding-challenge\2024-coding-challenge\bin\Debug\net6.0\2024-coding-challenge.deps.json
+D:\projects\exercise\2024-coding-challenge\2024-coding-challenge\bin\Debug\net6.0\2024-coding-challenge.runtimeconfig.json
+D:\projects\exercise\2024-coding-challenge\2024-coding-challenge\bin\Debug\net6.0\2024-coding-challenge.dll
+D:\projects\exercise\2024-coding-challenge\2024-coding-challenge\bin\Debug\net6.0\2024-coding-challenge.pdb
+D:\projects\exercise\2024-coding-challenge\2024-coding-challenge\obj\Debug\net6.0\2024-coding-challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\exercise\2024-coding-challenge\2024-coding-challenge\obj\Debug\net6.0\2024-coding-challenge.AssemblyInfoInputs.cache
+D:\projects\exercise\2024-coding-challenge\2024-coding-challenge\obj\Debug\net6.0\2024-coding-challenge.AssemblyInfo.cs
+D:\projects\exercise\2024-coding-challenge\2024-coding-challenge\obj\Debug\net6.0\2024-coding-challenge.csproj.CoreCompileInputs.cache
+D:\projects\exercise\2024-coding-challenge\2024-coding-challenge\obj\Debug\net6.0\2024-coding-challenge.dll
+D:\projects\exercise\2024-coding-challenge\2024-coding-challenge\obj\Debug\net6.0\refint\2024-coding-challenge.dll
+D:\projects\exercise\2024-coding-challenge\2024-coding-challenge\obj\Debug\net6.0\2024-coding-challenge.pdb
+D:\projects\exercise\2024-coding-challenge\2024-coding-challenge\obj\Debug\net6.0\2024-coding-challenge.genruntimeconfig.cache
+D:\projects\exercise\2024-coding-challenge\2024-coding-challenge\obj\Debug\net6.0\ref\2024-coding-challenge.dll
